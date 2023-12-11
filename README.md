@@ -42,3 +42,4 @@ Para executar os programas, basta baixar os códigos e submetê-los em um compil
 
 ## Vídeos
 
+https://github.com/projeto-de-algoritmos/PD_Exercicios_Juiz_Online/assets/58870950/e963fb8f-5039-4c17-adf0-4e112a2c082d

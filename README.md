@@ -1,45 +1,44 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
+## Programação Dinâmica Exercicios Juiz Online
  
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+- Número na Lista : 33 <br>
+- Conteúdo da Disciplina: Programção Dinâmica <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0142421  |  Artur Vinicius Dias Nunes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Exercicios resolvidos de juizes onlines LeetCode, sobre o tema programação de dinâmica.
+
+[Distinct_Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) <br>
+[Jump_Game_2](https://leetcode.com/problems/jump-game-ii/description/)<br>
+[Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) <br>
+[Profitable_Schemes](https://leetcode.com/problems/profitable-schemes/description/)<br>
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Distinct_Subsequences-questao](Distinct_Subsequences/Distinct_Subsequences-questao.png)
+
+![Distinct_Subsequences-accepted](Distinct_Subsequences/Distinct_Subsequences-accepted.png)
+
+![Jump_Game_2-questao](Jump_Game_2/Jump_Game_2-questao.png)
+
+![Jump_Game_2-accepted](Jump_Game_2/Jump_Game_2-accepted.png)
+
+![Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid-questao](Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid/Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid-questao.png)
+
+![Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid-accepted](Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid/Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid-accepted.png)
+
+![Profitable_Schemes-questao](Profitable_Schemes/Profitable_Schemes-questao.png)
+
+![Profitable_Schemes-accepted](Profitable_Schemes/Profitable_Schemes-accepted.png)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para executar os programas, basta baixar os códigos e submetê-los em um compilador online ou em um editor de código-fonte.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
+## Vídeos
 
